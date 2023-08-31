@@ -18,7 +18,7 @@ Note: Please try to accomplish these conversions by hand (without using an onlin
 3. Referring to Equation (2.3.3)(Plantz), what are the values of r, n, and each d for the decimal number 12345678 The hexadecimal number 12345678    
 
 4. Convert the following 16-bit binary numbers to decimal by hand
-    a. 1011 1111 1000 1010 = 
+    a. 1011 1111 1000 1010 
     b. 1010 0101 1011 0001
     c. 0111 0010 0100 0001
     d. 1100 1101 1110 1111
@@ -50,3 +50,7 @@ n = 8
 d = 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
 
 4. 
+49034
+42417
+29249
+52719
