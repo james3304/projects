@@ -2,8 +2,8 @@
     .text
     .align 2
 
-    .global maxArray
-    .type maxArray, %function
+    .global minArray
+    .type minArray, %function
 
 maxArray:
     push {fp, lr}
@@ -21,7 +21,7 @@ topOfLoop:
 
     sub r1, r1, #1  //  ( i think )
     cmp r1, #0      // we change these 
-    bgt topOfLoop   // 3 lines for each
+    blt topOfLoop   // 3 lines for each
     //might need to be blt
 
     //porlogue
